@@ -1,6 +1,6 @@
 # sandbox
 
-one function  `time()`
+one function  `timebars()`
 
 add / change whatever you'd like
 

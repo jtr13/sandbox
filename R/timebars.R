@@ -5,11 +5,11 @@
 #' @export
 
 #' @examples
-#' time()
-#' time(military = TRUE)
+#' timebars()
+#' timebars(military = TRUE)
 #'
 
-time <- function(military = FALSE) {
+timebars <- function(military = FALSE) {
   t <- Sys.time()
   df <- data.frame(
     hours = lubridate::hour(t),
