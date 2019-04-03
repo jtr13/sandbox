@@ -1,0 +1,22 @@
+Package: sandbox
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Joyce",
+           family = "Robbins",
+           role = c("aut", "cre"),
+           email = "jtr13@columbia.edu")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    magrittr,
+    lubridate,
+    ggplot2,
+    tidyr,
+    dplyr,
+    forcats,
+    readr
