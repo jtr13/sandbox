@@ -1,0 +1,27 @@
+..generic:
+  optimize: yes
+  NA string: NA
+  sorting: mpg
+  hash: 50e68a856c93bc3e46328cfbc8bb2647533e0cf9
+mpg:
+  class: numeric
+cyl:
+  class: numeric
+disp:
+  class: numeric
+hp:
+  class: numeric
+drat:
+  class: numeric
+wt:
+  class: numeric
+qsec:
+  class: numeric
+vs:
+  class: numeric
+am:
+  class: numeric
+gear:
+  class: numeric
+carb:
+  class: numeric
