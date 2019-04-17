@@ -1,6 +1,6 @@
 # sandbox
 
-one function  `timebars()`
+package with one function:  `timebars()`
 
 add / change whatever you'd like
 
